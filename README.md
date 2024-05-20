@@ -1,7 +1,8 @@
 # Kernel Builder By IamCOD3X
 Python GUI based Linux Kernel Builder
 
-Kernel Builder v0.1
+
+## Logs v0.1
     Tool for Building Nethunter Kernels.
 
     CHANGELOGS :
@@ -15,3 +16,19 @@ Kernel Builder v0.1
     Improvement Done on 26-03-2024
     Improvement Done on 20-04-2024
     Improvement Done on 09-05-2024
+
+
+# Status
+⚠️ Testing
+
+# How to use :
+Run in Linux with
+```
+./Kernel_Builder_v0.1
+```
+Place your kernel source in the same directory where Kernel_Builder_v0.1 executable file is located with name
+```
+kernel_source
+```
+# Share your logs on 
+https://t.me/COD3XBUILDsDiscussion/269
