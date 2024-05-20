@@ -1,7 +1,6 @@
 # Kernel Builder By IamCOD3X
-![alt text](https://github.com/IamCOD3X/Kernel-Builder/blob/main/Addons/KernelBuilderY.png?raw=true)
     Python GUI based Linux Kernel Builder
-
+![alt text](https://github.com/IamCOD3X/Kernel-Builder/blob/main/Addons/KernelBuilderY.png?raw=true)
 
 ## Logs v0.1
     Tool for Building Nethunter Kernels.
@@ -20,7 +19,7 @@
 
 
 # Status
-⚠️ Testing
+    ⚠️ Testing
 
 # How to use :
 Run in Linux with
@@ -33,3 +32,6 @@ kernel_source
 ```
 # Share your logs on 
 https://t.me/COD3XBUILDsDiscussion/269
+
+# About Source Code
+    Source code is Private 🔏
