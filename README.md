@@ -22,13 +22,17 @@
     ⚠️ Testing
 
 # How to use :
-Run in Linux with
-```
-./Kernel_Builder_v0.1
-```
 Place your kernel source in the same directory where Kernel_Builder_v0.1 executable file is located with name
 ```
 kernel_source
+```
+Change permissions for the file
+```
+chmod +x Kernel-Builder
+```
+Run in Linux with
+```
+./Kernel-Builder
 ```
 # Share your logs on 
 https://t.me/COD3XBUILDsDiscussion/269
