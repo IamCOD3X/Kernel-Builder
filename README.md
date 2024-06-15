@@ -38,4 +38,4 @@ Run in Linux with
 https://t.me/COD3XBUILDsDiscussion/269
 
 # About Source Code
-    Source code is Private 🔏
+    Source code is Private 🔏 for some copyright reasons.. it will be public as soon as I stabilize the program.
