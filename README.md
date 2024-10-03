@@ -22,7 +22,7 @@
     ⚠️ Testing
 
 # Requirements
-    ```
+```
 pip install pyfiglet==1.0.2
 pip install requests==2.32.3
 pip install webbrowser
