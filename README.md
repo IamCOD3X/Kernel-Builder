@@ -21,6 +21,14 @@
 # Status
     ⚠️ Testing
 
+# Requirements
+    ```
+pip install pyfiglet==1.0.2
+pip install requests==2.32.3
+pip install webbrowser
+pip install pytest-shutil
+```
+
 # How to use :
 Place your kernel source in the same directory where Kernel_Builder_v0.1 executable file is located with name
 ```
